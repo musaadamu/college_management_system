@@ -1,6 +1,6 @@
 import { createBrowserRouter } from 'react-router-dom';
 import { lazy, Suspense } from 'react';
-import MainLayout from './components/Layout/MainLayout';
+import MainLayout from './components/layout/MainLayout';
 import Home from './pages/Home';
 
 // Create simple fallback components
